@@ -1,0 +1,10 @@
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\bin\Debug\AppRealDolar.exe.config
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\bin\Debug\AppRealDolar.exe
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\bin\Debug\AppRealDolar.pdb
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\obj\Debug\AppRealDolar.csproj.AssemblyReference.cache
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\obj\Debug\AppRealDolar.Form1.resources
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\obj\Debug\AppRealDolar.Properties.Resources.resources
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\obj\Debug\AppRealDolar.csproj.GenerateResource.cache
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\obj\Debug\AppRealDolar.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\obj\Debug\AppRealDolar.exe
+G:\Outros computadores\Meu computador\Estudo\Faculdade\2 Semestre\Linguagens II\C#\AppRealDolar\AppRealDolar\AppRealDolar\AppRealDolar\obj\Debug\AppRealDolar.pdb
