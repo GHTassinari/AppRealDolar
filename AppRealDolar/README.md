@@ -4,5 +4,6 @@ Esse projeto utiliza a cotação do dólar fornecido pelo usuário, uma quantia 
 
 This project uses the dollar quote provided by the user, a defined amount in reais, and the result in dollars.
 
-![image](https://github.com/GHTassinari/InstitutoFederal/assets/102005103/3bc1ce26-96d2-4806-bfce-b614a9c11284)
+![image](https://github.com/GHTassinari/AppRealDolar/assets/102005103/3d02fccd-872b-4cbb-b9e0-ec4e83e7b62d)
+
 
